@@ -1,0 +1,25 @@
+.logo-container img {
+    width: 300px;
+}
+  
+nav {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.cart-widget {
+  justify-content: flex end;
+}
+
+nav a {
+  padding: 15px;
+  text-decoration: none;
+  color:black;
+}
+
+nav a:hover {
+  font-weight: 600;
+}
